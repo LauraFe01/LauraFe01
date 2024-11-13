@@ -9,12 +9,12 @@
 ## 🛠️ Skills
 - **Languages**: Python, Java, JavaScript, Solidity, SQL
 - **Machine Learning & Deep Learning**: scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Processing**: Pandas, NumPy, Scipy, Feature extraction
-- **Software Engineering**: Design patterns, version control (Git), testing, code modularity, documentation
-- **Web Development**: HTML, CSS, React, Node.js
+- **Data Processing**: Pandas, NumPy, Feature extraction
+- **Software Engineering**: Patterns, version control (Git), testing, code modularity, documentation
+- **Web Development**: HTML, CSS
 - **Mobile Development**: Android (Java/Kotlin), Flutter
 - **Blockchain**: Ethereum, Solidity, smart contract development
-- **Other Tools**: Docker, GitHub Actions, Jupyter Notebooks
+- **Other Tools**: Docker, GitHub, Jupyter Notebooks
 
 ## 🌐 Projects
 Here are some areas of focus in my repositories:
